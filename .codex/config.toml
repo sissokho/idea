@@ -1,4 +1,0 @@
-[mcp_servers.laravel-boost]
-command = "wsl.exe"
-args = ["/home/linuxbrew/.linuxbrew/Cellar/php/8.5.4/bin/php", "/home/sissokho/Code/sissokho/idea/artisan", "boost:mcp"]
-cwd = "/home/sissokho/Code/sissokho/idea"
